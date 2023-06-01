@@ -1,0 +1,12 @@
+com.example.zamboanga.app-main-0 C:\Flutter Mobile Development\zamboanga\android\app\src\main\res
+com.example.zamboanga.app-release-1 C:\Flutter Mobile Development\zamboanga\android\app\src\release\res
+com.example.zamboanga.app-pngs-2 C:\Flutter Mobile Development\zamboanga\build\app\generated\res\pngs\release
+com.example.zamboanga.app-resValues-3 C:\Flutter Mobile Development\zamboanga\build\app\generated\res\resValues\release
+com.example.zamboanga.app-rs-4 C:\Flutter Mobile Development\zamboanga\build\app\generated\res\rs\release
+com.example.zamboanga.app-mergeReleaseResources-5 C:\Flutter Mobile Development\zamboanga\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.zamboanga.app-mergeReleaseResources-6 C:\Flutter Mobile Development\zamboanga\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.zamboanga.app-merged_res-7 C:\Flutter Mobile Development\zamboanga\build\app\intermediates\merged_res\release
+com.example.zamboanga.app-core-1.6.0-8 C:\Users\acer\.gradle\caches\transforms-3\3654dcf93b3c49f92dd62c3d6b4a0164\transformed\core-1.6.0\res
+com.example.zamboanga.app-jetified-window-1.0.0-beta04-9 C:\Users\acer\.gradle\caches\transforms-3\8dc3965d5e17a31c03ea594a186cc2fc\transformed\jetified-window-1.0.0-beta04\res
+com.example.zamboanga.app-jetified-window-java-1.0.0-beta04-10 C:\Users\acer\.gradle\caches\transforms-3\b00b6e6a83f14813ece6e8dd6c80ddbe\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.zamboanga.app-jetified-annotation-experimental-1.1.0-11 C:\Users\acer\.gradle\caches\transforms-3\c5347a140ab735c1d4ced9833cde643c\transformed\jetified-annotation-experimental-1.1.0\res

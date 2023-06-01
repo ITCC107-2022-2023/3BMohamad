@@ -1,0 +1,4 @@
+#Fri May 26 23:38:03 PST 2023
+base.0=C\:\\Flutter Mobile Development\\zamboanga\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
